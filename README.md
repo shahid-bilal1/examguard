@@ -57,7 +57,7 @@ ExamGuard is a full-stack, enterprise-grade online examination and automated pro
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Aaqibreshie/Exam-Guard.git
+git clone https://github.com/shahid-bilal1/Exam-Guard.git
 cd Exam-Guard
 ```
 
